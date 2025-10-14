@@ -50,18 +50,18 @@ Use the **Reset Project** button in the sidebar to clear all session data and st
 ---
 
 ## 📸 Screenshots
-![image](https://github.com/jonahprashanth/jonah_genai_gcp/blob/main/Week%20-%204/HandCraftAI/Screenshots/1.png)
-![image](https://github.com/jonahprashanth/jonah_genai_gcp/blob/main/Week%20-%204/HandCraftAI/Screenshots/2.png)
-![image](https://github.com/jonahprashanth/jonah_genai_gcp/blob/main/Week%20-%204/HandCraftAI/Screenshots/3.png)
-![image](https://github.com/jonahprashanth/jonah_genai_gcp/blob/main/Week%20-%204/HandCraftAI/Screenshots/4.png)
-![image](https://github.com/jonahprashanth/jonah_genai_gcp/blob/main/Week%20-%204/HandCraftAI/Screenshots/5.png)
-![image](https://github.com/jonahprashanth/jonah_genai_gcp/blob/main/Week%20-%204/HandCraftAI/Screenshots/6.png)
-![image](https://github.com/jonahprashanth/jonah_genai_gcp/blob/main/Week%20-%204/HandCraftAI/Screenshots/7.png)
-![image](https://github.com/jonahprashanth/jonah_genai_gcp/blob/main/Week%20-%204/HandCraftAI/Screenshots/8.png)
-![image](https://github.com/jonahprashanth/jonah_genai_gcp/blob/main/Week%20-%204/HandCraftAI/Screenshots/9.png)
-![image](https://github.com/jonahprashanth/jonah_genai_gcp/blob/main/Week%20-%204/HandCraftAI/Screenshots/10.png)
-![image](https://github.com/jonahprashanth/jonah_genai_gcp/blob/main/Week%20-%204/HandCraftAI/Screenshots/11.png)
-![image](https://github.com/jonahprashanth/jonah_genai_gcp/blob/main/Week%20-%204/HandCraftAI/Screenshots/12.png)
-![image](https://github.com/jonahprashanth/jonah_genai_gcp/blob/main/Week%20-%204/HandCraftAI/Screenshots/13.png)
+![image](https://github.com/jonahprashanth/HandCraftAI/blob/main/Screenshots/1.png)
+![image](https://github.com/jonahprashanth/HandCraftAI/blob/main/Screenshots/2.png)
+![image](https://github.com/jonahprashanth/HandCraftAI/blob/main/Screenshots/3.png)
+![image](https://github.com/jonahprashanth/HandCraftAI/blob/main/Screenshots/4.png)
+![image](https://github.com/jonahprashanth/HandCraftAI/blob/main/Screenshots/5.png)
+![image](https://github.com/jonahprashanth/HandCraftAI/blob/main/Screenshots/6.png)
+![image](https://github.com/jonahprashanth/HandCraftAI/blob/main/Screenshots/7.png)
+![image](https://github.com/jonahprashanth/HandCraftAI/blob/main/Screenshots/8.png)
+![image](https://github.com/jonahprashanth/HandCraftAI/blob/main/Screenshots/9.png)
+![image](https://github.com/jonahprashanth/HandCraftAI/blob/main/Screenshots/10.png)
+![image](https://github.com/jonahprashanth/HandCraftAI/blob/main/Screenshots/11.png)
+![image](https://github.com/jonahprashanth/HandCraftAI/blob/main/Screenshots/12.png)
+![image](https://github.com/jonahprashanth/HandCraftAI/blob/main/Screenshots/12.png)
 
 ---
